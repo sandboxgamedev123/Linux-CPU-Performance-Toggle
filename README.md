@@ -1,7 +1,7 @@
 # Linux-CPU-Performance-Toggle
 This repository provides scripts for AMD and Intel CPUs to toggle setting the CPUs to use up to their base clock frequencies. There are instructions to automatically apply the change when the computer starts.
 
-This was tested with Linux Mint 21.2 Cinnamon x64 but it may work well with other distros.
+This was tested with Linux Mint 21.2 Cinnamon x64 but it could work well with other distros.
 
 For AMD CPUs:
 
