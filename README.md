@@ -14,6 +14,7 @@ Open a command-line window and enter the following:
 sudo nano /etc/rc.local
 
 #!/bin/sh -e
+
 sh '/home/%USERNAME%/.local/bin/AMD_CPU_Performance_Toggle.sh'
 
 Press "Crtl+X", "Y", and "Enter" to save and exit.
@@ -41,6 +42,7 @@ Open a command-line window and enter the following:
 sudo nano /etc/rc.local
 
 #!/bin/sh -e
+
 sh '/home/%USERNAME%/.local/bin/Intel_CPU_Performance_Toggle.sh'
 
 Press "Crtl+X", "Y", and "Enter" to save and exit.
